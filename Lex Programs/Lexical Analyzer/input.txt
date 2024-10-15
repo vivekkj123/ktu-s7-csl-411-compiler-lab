@@ -1,0 +1,2 @@
+int a = b + c
+if(a==b) printf("BOTH ARE EQUAL");
